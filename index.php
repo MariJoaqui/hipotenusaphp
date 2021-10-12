@@ -1,7 +1,5 @@
 <?php
 
-include('index.html');
-
 echo '<h1>CALCULAR LA HIPOTENUSA DEL SIGUIENTE TRIÁNGULO: </h1>';
 echo '<h2>Lado 1: 3cm </h2>';
 echo '<h2>Lado 2: 4cm </h2>';
